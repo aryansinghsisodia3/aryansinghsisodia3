@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansinghsisodia3" alt="aryansinghsisodia3" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&show_icons=true&locale=en" alt="aryansinghsisodia3" /></p>
 
 - 📫 How to reach me **aryansinghsisodia3@gmail.com**
 
@@ -22,6 +22,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/coffeeforaryan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeeforaryan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&show_icons=true&locale=en" alt="aryansinghsisodia3" /></p>
+
+
