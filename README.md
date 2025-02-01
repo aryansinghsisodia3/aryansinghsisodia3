@@ -1,4 +1,4 @@
- <div style="background-image: url('aryansinghsisodia3/background-profile/background-wallpaper.jpg'); background-size: cover; background-repeat: no-repeat;"> 
+ <div style="background-image: url('background-wallpaper.jpg'); background-size: cover; background-repeat: no-repeat;"> 
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate developer from India</h3>
