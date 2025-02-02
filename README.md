@@ -32,10 +32,6 @@
 
 <img src="https://raw.githubusercontent.com/IdkwhatImD0ing/IdkwhatImD0ing/output/snake.svg" alt="Snake animation" />
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ###
 
 <h3 align="left">Support:</h3>
