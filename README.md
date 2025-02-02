@@ -1,4 +1,4 @@
- <div style="background-image: url('background-wallpaper.jpg'); background-size: cover; background-repeat: no-repeat;"> 
+![Header](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -23,7 +23,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/coffeeforaryan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeeforaryan" /></a></p><br><br>
-
- </div>
-
-
