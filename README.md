@@ -1,9 +1,10 @@
 ![Header](./banner1.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryansinghsisodia3&theme=solarized-light&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
 
 - 📫 How to reach me **aryansinghsisodia3@gmail.com**
 
