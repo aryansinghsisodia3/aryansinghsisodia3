@@ -46,6 +46,7 @@
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/IdkwhatImD0ing/IdkwhatImD0ing/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="left">Support:</h3>
