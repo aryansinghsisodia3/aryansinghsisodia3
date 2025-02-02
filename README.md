@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryansinghsisodia3&theme=solarized-light&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryansinghsisodia3&theme=solarized-light&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 - 📫 How to reach me **aryansinghsisodia3@gmail.com**
 
@@ -44,11 +44,8 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/IdkwhatImD0ing/IdkwhatImD0ing/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="left">Support:</h3>
@@ -56,12 +53,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aryansinghsisodia3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryansinghsisodia3&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansinghsisodia3&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
