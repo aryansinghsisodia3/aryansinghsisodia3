@@ -1,8 +1,5 @@
 ![Header](./banner1.png)
 
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&show_icons=true&locale=en" alt="aryansinghsisodia3" /></p>
