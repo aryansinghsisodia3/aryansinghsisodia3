@@ -16,10 +16,6 @@
 <a href="https://www.codechef.com/users/erupt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="erupt" height="30" width="40" /></a>
 </p>
 
-<div align=left>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishPS&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
