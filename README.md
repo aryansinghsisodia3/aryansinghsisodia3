@@ -1,9 +1,9 @@
 ![Header](./banner1.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Web Programming Project<br>🤝 I’m looking to collaborate on projects<br>🌱 I’m currently learning Web Programming<br>💬 Ask me about anything<br>⚡ Fun fact: I love Cats 😺
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryansinghsisodia3&theme=solarized-light&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
