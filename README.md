@@ -6,7 +6,7 @@
 🔭 I’m currently working on Web Programming Project<br>🤝 I’m looking to collaborate on projects<br>🌱 I’m currently learning Web Programming<br>💬 Ask me about anything<br>⚡ Fun fact: I love Cats 😺
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryansinghsisodia3&theme=solarized-light&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aryansinghsisodia3&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)
 
 - 📫 How to reach me **aryansinghsisodia3@gmail.com**
 
