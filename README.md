@@ -2,11 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghsisodia3&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghsisodia3" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghsisodia3&show_icons=true&locale=en&layout=compact" alt="aryansinghsisodia3" /></p>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryansinghsisodia3&theme=solarized-light&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 - 📫 How to reach me **aryansinghsisodia3@gmail.com**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryansinghsisodia3&theme=solarized-light&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reallly_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reallly_aryan" height="30" width="40" /></a>
